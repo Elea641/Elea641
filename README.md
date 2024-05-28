@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elea</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-<h3 align="left">Connect with me:</h3>
-[![LinkedIn]([https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://github.com/Drakolab-yt/](https://www.linkedin.com/in/eleavoliotis/)
-
 <h3 align="left">Me retrouver</h3>
 <p align="left"> <a href="](https://www.linkedin.com/in/eleavoliotis/)" target="_blank" rel="noreferrer">
 
