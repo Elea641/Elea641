@@ -1,4 +1,11 @@
-# Bienvenue 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elea641&label=Profile%20views&color=0e75b6&style=flat" alt="elea641" /> </p>
+
+<h1 align="center">Bienvenue sur mon github 👋, Je suis Elea</h1>
+
+<p style="margin: 15px;" align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=Developper+full+stack%2C+love+java;i'm+sharing+and+coding+in+good+mood" alt="Typing SVG" /></a>
+</p>
+
 <h3 align="center">Je suis passionnée de Développement</h3>
 
 ## Me retrouver
